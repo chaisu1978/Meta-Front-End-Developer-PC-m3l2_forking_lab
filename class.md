@@ -155,6 +155,7 @@ Read the instructions of this file in the README.md
   - [Solnrned] Version Control
 
 - ### **T**
+  - [Terrence Hosang](https://github.com/chaisu1978) Version Control
   - [Temiloluwa Odunfa](https://github.com/tizreal) Version Control
 
   - [Triantaphilos Terzides](https://github.com/terzidest) React Native development
